@@ -53,6 +53,21 @@ What must we reach, with how many members at what price?
 | $30k | $25.5M | $38.3M | $41.1M | $61.7M |
 
 - [estimated] Reachability: most of the telecom universe is small firms (WISPs, rural telcos, local contractors), so a $15k average is more realistic than $30k. That gives a telecom beachhead of roughly $13-31M ARR, below the $37.5M low end. Reaching $37.5M on telecom alone needs 9-15% of operators and contractors at a $30k average, which in practice means a top-heavy tier where the roughly 20 national carriers and the largest contractors pay far above $60k. The high end ($100M) is not reachable on telecom alone at these counts (24-39% penetration at $30k is well above what a new association should plan for). With the electric, gas and water expansion, $100M needs about 9-12% of a 29,000-39,000 universe at $30k, or 17-23% at $15k. The $30k case is ambitious but plausible over 5-10 years; the $15k case is not. The expansion universe is even more weighted toward small and municipal organizations than telecom, so the exit range depends on the expansion plus data-subscription pricing well above $15k for large firms.
+- [estimated] Realistic annual price per paying side, from document 04's published comparables (NTCA, FBA, NATOA dues and a public permit-data price list): operators pay about $1,000-$10,000 for association membership (only the largest ILEC groups pay above $25,000), contractors and engineering firms about $2,000-$6,000; a membership that includes the dashboard is plausibly $8,000-$18,000 for the firms that take it. A blended average across paying members of about $5,000 (membership-led) to $10,000 (dashboard-led) is what the research supports; $15,000 needs most members to buy the dashboard, and $30,000+ applies only to an enterprise tier for the largest carriers and primes. No willingness-to-pay data exists; these are list-price comparables.
+- [estimated] Members needed and telecom ARR at the research-supported averages, computed with model/arr_model.py (members_needed, and arr with ROW managers as a zero-ARR segment):
+
+| Target ARR ($M) | $5k | $10k | $15k |
+|---|---|---|---|
+| 37.5 | 7,500 | 3,750 | 2,500 |
+| 50.0 | 10,000 | 5,000 | 3,334 |
+| 100.0 | 20,000 | 10,000 | 6,667 |
+
+| Average price | 8,500 at 10% | 8,500 at 15% | 13,700 at 10% | 13,700 at 15% |
+|---|---|---|---|---|
+| $5k | $4.3M | $6.4M | $6.9M | $10.3M |
+| $10k | $8.5M | $12.8M | $13.7M | $20.6M |
+
+- [estimated] At research-supported prices the telecom beachhead is roughly $4-21M ARR, and $37.5M needs 3,750 members at $10k (27-44% of the telecom universe, 10-13% of the all-ROW universe). The $300-500M exit therefore depends on the electric, gas and water expansion and on an enterprise data tier well above association-dues levels; membership dues alone do not get there.
 
 ## Assumptions
 - Exit value range is $300M to $500M and the revenue multiple range is 5x to 8x, per the founder's target.

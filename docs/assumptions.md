@@ -18,3 +18,20 @@
 ## From document 01 (exit and ARR model)
 - Most small operators and contractors cannot pay $30k a year; reaching the ARR target needs a top-heavy tier for the largest firms.
 - Penetration above roughly 15% of a paying universe is unrealistic for a new association.
+
+## From document 03 (archetypes)
+- All archetype titles, budget owners, information sources and willingness to pay are hypotheses; no buyer interviews have been done.
+- Permit-time variance is the shared pain buyers will pay to reduce; the evidence is operator advocacy filings.
+- Large contractors value build and capex forecasts more than permit benchmarks.
+- Large jurisdictions will pay a nominal fee in the NATOA range or join free in exchange for data.
+- Utility commissions are a secondary audience rather than primary data partners.
+
+## From document 04 (buying process)
+- Private-company approval breakpoints (about $10k and $50k), dues vs data line-item ownership and sales cycles (1-12+ months by segment) are typical practice, not sourced.
+- Membership priced above about $10,000 a year will be treated as a data/software purchase with procurement review.
+- A free government membership is not a purchase and does not trigger purchasing thresholds; most large jurisdictions can approve it administratively.
+- Agency-contributed data is likely a public record; the association will request only already-public fields and not pass operator-identifiable data to agencies.
+- Operators should be signed before contractors in each region.
+
+## From document 01 (price update after documents 03-04)
+- A blended average of $5,000-$10,000 per paying member is realistic from published dues comparables; it is not validated willingness to pay.
