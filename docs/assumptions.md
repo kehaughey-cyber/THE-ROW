@@ -45,3 +45,11 @@
 - Shovels is the strongest threat to the dashboard and FBA the strongest threat to the membership.
 - Trade-show and media companies are possible acquirers; no supporting transaction was found.
 - The Ookla sale multiple (about 5.2x revenue) is a relevant comparable for a data business exit, not evidence of demand for this business.
+
+## From document 06 (value proposition)
+- Permit-time and fee variance is a pain buyers will pay to reduce; the evidence is operator advocacy filings and no operator, contractor or ROW manager has been interviewed.
+- ROW managers will contribute permit data regularly and accept a free or near-free membership if they receive cross-jurisdiction benchmarks their own permitting software does not provide.
+- Operators and contractors will accept a no-lobbying association and pay for neutral data rather than advocacy.
+- Equal board blocks, a no-lobbying rule, minimal data-contribution terms and published methods are enough for ROW managers to treat the association as neutral; none of this has been tested.
+- Agency-contributed data makes predictions better than predictions built by vendors from public records; no prediction method or accuracy test exists.
+- The combination of ROW managers as members, cross-jurisdiction benchmarks and modeled forecasts stays unoccupied long enough to establish the association.
