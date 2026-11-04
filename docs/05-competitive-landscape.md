@@ -25,8 +25,10 @@ How do existing associations, data vendors, and permit platforms compare, and wh
 | APWA | Public works staff, plus suppliers, contractors and consultants, 30,000+ [S-050] | $252 individual (through Dec 2026) [S-050] | Education, networking, chapters [S-050] | No data or benchmark product listed |
 | Common Ground Alliance (CGA) | Damage-prevention stakeholders; board has directors for 17 stakeholder categories, including public works [S-058] | $1,200 (government/municipality, small business) to $100,000 (Platinum) [S-057] | DIRT database (221,717 damage reports in 2025, telecom/CATV 51%) and a Damage Prevention Dashboard [S-059] | Scope is excavation damage, not permits, fees, build volumes or spend; no forecasts seen |
 
-- [sourced] CGA is the closest structural precedent: one body with government, operator and contractor categories on its board [S-058]
-- [sourced] CGA prices government members at $1,200 and corporate members from $3,000 up to $100,000, a tiered range that includes and exceeds the $5,000-$10,000 blended price in document 01 [S-057]
+- [sourced] CGA's board stakeholder directors each represent one of seventeen CGA stakeholder categories [S-058]
+- [estimated] CGA is the closest structural precedent found: one body whose board gives seats to several stakeholder categories, including public works. Whether its categories match government, operator and contractor sides is judgment.
+- [sourced] CGA dues run from $1,200 (Government/Municipality and Small Business) and $3,000 (Corporate) up to $100,000 (Platinum, 50 individuals) [S-057]
+- [estimated] That tiered range includes and exceeds the $5,000-$10,000 blended price in document 01.
 - [sourced] CGA already publishes a multi-stakeholder data product built from contributed reports (DIRT) with a dashboard [S-059]
 - [sourced] NATOA already puts local-government ROW staff and for-profit industry associates in one association [S-030]
 
@@ -52,7 +54,8 @@ How do existing associations, data vendors, and permit platforms compare, and wh
 | S&P Global (Kagan) | Media and telecom investors | Not reviewed (site could not be opened) | Subscriber and market research (not verified here) | Not assessed |
 
 - [sourced] Shovels already sells telecom permit intelligence, including approval-timeline comparisons and ROW approval patterns, through self-serve plans [S-063]
-- [sourced] Shovels' self-serve plans cost $599 and $999 a month, about $7,200-$12,000 a year. The Basic plan (about $7,200) is inside the $5,000-$10,000 blended price band of document 01 and the Pro plan (about $12,000) is above it, so the range overlaps and exceeds the band [S-032]
+- [sourced] Shovels' Basic and Pro plans cost $599 and $999 a month [S-032]
+- [estimated] That is about $7,200-$12,000 a year. The Basic plan is inside the $5,000-$10,000 blended price band of document 01 and the Pro plan is above it, so the range overlaps and exceeds the band.
 - [sourced] Shovels calls itself "The prediction engine for the built world" but the pages reviewed describe no forecasting method or accuracy [S-062]
 - [sourced] CostQuest already produces a predictive fiber-build model (six-month likelihood by location, 2.1-6.7 million new fiber locations) and publishes it via Benton [S-067]
 - [sourced] Dodge already sells county-level construction demand forecasts, but its page names no telecom or utility forecast [S-064]
@@ -81,13 +84,16 @@ How do existing associations, data vendors, and permit platforms compare, and wh
 
 ### Where the idea is not differentiated
 - [sourced] Prediction is not unique: CostQuest already forecasts fiber builds at location level [S-067]
-- [sourced] Prediction framing is not unique: Shovels already markets itself as a prediction engine and sells telecom permit intelligence at self-serve prices [S-062]
+- [sourced] Shovels markets itself as "The prediction engine for the built world" [S-062]
+- [sourced] Shovels sells self-serve permit-data plans from $599 a month [S-032]
+- [estimated] Prediction framing is not unique: Shovels already markets itself as a prediction engine and sells permit data at self-serve prices.
 - [sourced] Permitting benchmarking inside an association is not unique: FBA commissioned a study of 100+ permitting examples across 71 local jurisdictions [S-055]
 - [sourced] Forward-looking build-cost work inside an association is not unique: FBA and Cartesian published a cost-to-pass-90%-by-2029 estimate in 2019 [S-079]
 - [sourced] Spend history is already published free by USTelecom (historical capex since 1996) [S-002]
 - [sourced] CTIA already publishes annual wireless capex history and sells an indices report for about $1,075 a year [S-052]
 - [sourced] A three-sided body with government members and a contributed-data dashboard already exists in damage prevention (CGA) [S-059]
-- [sourced] Newsletter and conference products are standard at every association reviewed, for example NATOA's conference, webinars and newsletter [S-030]
+- [sourced] NATOA offers an annual conference, webinars and a newsletter [S-030]
+- [estimated] Newsletter and conference products are standard at the associations reviewed.
 - [estimated] Incumbents could add the missing pieces quickly: FBA could license Shovels permit data or CostQuest forecasts and add a dashboard for its existing members; NATOA could add an operator tier; Shovels could add an events and membership layer. None needs a new organization.
 
 ### Strongest threat

@@ -128,7 +128,7 @@ How big are the telecom beachhead and the wider ROW market?
 - [sourced] BLS QCEW counts 12,958 water and sewer line construction establishments, 2024 annual average [S-024]
 - [sourced] BLS QCEW counts 4,414 oil and gas pipeline construction establishments, 2024 annual average [S-025]
 - [estimated] Gas operators are put at 1,000-1,500 companies because establishments overstate firms and a PHMSA operator count could not be opened. Water is mostly small municipal systems, so only about 10% are treated as able to pay. Many electric and water operators are themselves municipal, which may push them toward the free ROW-manager side and lower the paying count.
-- [estimated] Electric is the largest expansion prize: its IOU capex alone ($178.2B) is about twice telecom's, and many public power utilities are also municipal ROW managers.
+- [estimated] Electric is the largest expansion prize by capex: its IOU capex alone ($178.2B) is about twice telecom's, and many public power utilities are also municipal ROW managers.
 
 ## Assumptions
 - Counts of establishments are converted to firms at 0.85; no source was found for this ratio.

@@ -49,7 +49,11 @@ def load_source_ids(path):
 
 def main():
     docs = Path(__file__).resolve().parent.parent / "docs"
-    ids = load_source_ids(docs / "sources.md")
+    sources = docs / "sources.md"
+    if not sources.exists():
+        print(f"missing {sources}: cannot validate source ids")
+        return 1
+    ids = load_source_ids(sources)
     failed = False
     for path in sorted(docs.glob("0*.md")):
         for problem in check_doc(path.read_text(encoding="utf-8"), ids):

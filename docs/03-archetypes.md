@@ -13,7 +13,8 @@ Who are the operator, contractor, and ROW-manager buyers?
 - [sourced] USTelecom told the FCC (July 2025) that permit approvals range from a few days to more than a year, 8 weeks to 6 months in New York, and that timelines vary between reviewers in the same community and among neighboring jurisdictions [S-038]
 - [sourced] The same filing reports permitting fees of $30,000-$50,000 per project in some municipalities for one large provider, gross-revenue ROW fees in Utah and Montana, and survey costs above $40,000 in one Florida city [S-038]
 - [sourced] The Fiber Broadband Association describes permitting across states as complex and inconsistent, with weak communication between applicants and agencies and paper-based processes (September 2025) [S-039]
-- [sourced] Federal small-cell rules upheld in City of Portland v. FCC set 60-day and 90-day shot clocks and fee safe harbors of $500 for up to five facilities, $1,000 per new pole and $270 per facility per year; ROW managers work inside these limits [S-040]
+- [sourced] Federal small-cell rules upheld in City of Portland v. FCC set 60-day and 90-day shot clocks and fee safe harbors of $500 for up to five facilities, $1,000 per new pole and $270 per facility per year [S-040]
+- [estimated] ROW managers work inside these federal limits, which cap the fees and time they can set for small cells.
 - [estimated] The cross-side pain is variance and opacity: operators and contractors cannot predict how long or how much a permit will take, and jurisdictions cannot see what is coming. This is the strongest public evidence for a dashboard with historical and predicted permit timing, but it is advocacy-sourced and needs interview confirmation.
 
 ### Side 1: Operators (pay)

@@ -17,6 +17,14 @@ Marketing research for a neutral trade association serving right-of-way (ROW) in
 
 Supporting: [sources](docs/sources.md), [assumptions](docs/assumptions.md).
 
+## Where the research stands
+
+- Universes of paying organizations: telecom 8,500-13,700; telecom plus electric, gas and water expansion 18,500-27,500 more; all ROW 29,000-39,000.
+- Supported blended price is $5,000-$10,000 a year; the final tiers in [docs/07](docs/07-membership-pricing.md) blend to $6,020.
+- Telecom beachhead: about $5-12M ARR at the final $6,020 tiers, and up to about $21M only in the $10k price, 15% penetration case ([docs/01](docs/01-exit-arr-model.md)).
+- Dues alone do not reach $37.5M on telecom; $100M has no support in the research.
+- Nothing has been validated with a buyer. The single biggest unknown is whether agencies (ROW managers) will contribute permit data.
+
 ## Check
 
-`py scripts/check_docs.py` (exit 0 when all docs are clean); tests: `py -m pytest`.
+Install test tools once with `pip install -r requirements-dev.txt`. Then `py scripts/check_docs.py` (exit 0 when all docs are clean); tests: `py -m pytest`.

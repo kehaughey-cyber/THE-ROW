@@ -44,3 +44,12 @@ def test_tbd_word():
 def test_missing_assumptions_heading():
     text = CLEAN.replace("## Assumptions\n- None.\n", "")
     assert len(check_doc(text, IDS)) == 1
+
+
+def test_main_fails_when_sources_missing(tmp_path, monkeypatch, capsys):
+    import check_docs
+    (tmp_path / "scripts").mkdir()
+    (tmp_path / "docs").mkdir()
+    monkeypatch.setattr(check_docs, "__file__", str(tmp_path / "scripts" / "check_docs.py"))
+    assert check_docs.main() != 0
+    assert "sources.md" in capsys.readouterr().out

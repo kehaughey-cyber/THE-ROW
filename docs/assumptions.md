@@ -16,7 +16,7 @@
 - The expansion (electric, gas, water) adds 18,500-27,500 paying organizations, giving an all-ROW paying universe of 29,000-39,000.
 
 ## From document 01 (exit and ARR model)
-- Most small operators and contractors cannot pay $30k a year; reaching the ARR target needs a top-heavy tier for the largest firms.
+- Most small operators and contractors cannot pay $30k a year; an enterprise/data tier well above dues is needed for more than about $26-35M.
 - Penetration above roughly 15% of a paying universe is unrealistic for a new association.
 
 ## From document 03 (archetypes)
@@ -56,7 +56,7 @@
 
 ## From document 07 (membership and pricing tiers)
 - Tier prices (Operator Regional $2,500, Contractor Member $3,500, Dashboard tiers $9,000, Enterprise $60,000 operators and $40,000 contractors, predictive add-on $5,000) are proposals, not validated willingness to pay.
-- The tier mix per 1,000 paying members (250, 100, 3, 450, 190, 7) and a 15% add-on take rate produce the $6,020 blended price; the enterprise share (about 1%) and the take rate are untested.
+- The tier mix per 1,000 paying members (250, 100, 3, 450, 190, 7) and an add-on bought by about 150 of the 290 Dashboard-tier members (about 52%; 15% of all paying members) produce the $6,020 blended price; the enterprise share (about 1%) and the take rate are untested.
 - ROW managers join free and any nominal fee is excluded from ARR.
 - Meetings sponsorship, data licensing and reports can be sold; none is counted in ARR and none has a price.
 - Firms already paying NTCA, FBA or Shovels will pay for a further membership instead of treating it as a substitute.
