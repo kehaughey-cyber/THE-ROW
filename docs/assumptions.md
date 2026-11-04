@@ -53,3 +53,15 @@
 - Equal board blocks, a no-lobbying rule, minimal data-contribution terms and published methods are enough for ROW managers to treat the association as neutral; none of this has been tested.
 - Agency-contributed data makes predictions better than predictions built by vendors from public records; no prediction method or accuracy test exists.
 - The combination of ROW managers as members, cross-jurisdiction benchmarks and modeled forecasts stays unoccupied long enough to establish the association.
+
+## From document 07 (membership and pricing tiers)
+- Tier prices (Operator Regional $2,500, Contractor Member $3,500, Dashboard tiers $9,000, Enterprise $60,000 operators and $40,000 contractors, predictive add-on $5,000) are proposals, not validated willingness to pay.
+- The tier mix per 1,000 paying members (250, 100, 3, 450, 190, 7) and a 15% add-on take rate produce the $6,020 blended price; the enterprise share (about 1%) and the take rate are untested.
+- ROW managers join free and any nominal fee is excluded from ARR.
+- Meetings sponsorship, data licensing and reports can be sold; none is counted in ARR and none has a price.
+- Firms already paying NTCA, FBA or Shovels will pay for a further membership instead of treating it as a substitute.
+
+## From document 01 (final model revision)
+- The $8,000-$18,000 dashboard-membership range is dues plus a data-plan price, chosen by judgment.
+- The $5,000 (membership-led) to $10,000 (dashboard-led) blend is judgment, not a computed average.
+- Every assumption in this file is unvalidated: no buyer, contractor or ROW manager has been interviewed.
