@@ -11,7 +11,9 @@
 - About $21B of BEAD goes to deployment, spent over 3-5 years.
 - ROW-specific costs (permits, fees, make-ready, restoration) are 5-10% of telecom capex.
 - Gas distribution has 1,000-1,500 operating companies; about 10% of community water systems are large enough to pay for membership.
-- The expansion (electric, gas, water) adds 16,000-24,000 paying organizations.
+- 25-50% of water/sewer line and pipeline construction firms (NAICS 237110, 237120) are large enough or ROW-focused enough to join.
+- 2-4% of engineering-services establishments do non-telecom utility ROW engineering.
+- The expansion (electric, gas, water) adds 18,500-27,500 paying organizations, giving an all-ROW paying universe of 29,000-39,000.
 
 ## From document 01 (exit and ARR model)
 - Most small operators and contractors cannot pay $30k a year; reaching the ARR target needs a top-heavy tier for the largest firms.

@@ -36,7 +36,7 @@ How big are the telecom beachhead and the wider ROW market?
 | Telecom-relevant share of 237130 (40-60%), converted to firms (x0.85) | 4,500-6,700 | estimated |
 | Engineering services establishments (NAICS 541330) | 99,768 | sourced [S-013] |
 | Telecom/ROW-relevant engineering firms (2-4% of 541330) | 2,000-4,000 | estimated |
-| Contractor and engineering universe, telecom | 6,500-10,500 | estimated |
+| Contractor and engineering universe, telecom (4,500+2,000 to 6,700+4,000) | 6,500-10,700 | estimated |
 
 - [sourced] BLS QCEW counts 13,191 private establishments and 239,681 employees in NAICS 237130 (power and communication line construction), 2024 annual average [S-012]
 - [sourced] BLS QCEW counts 99,768 private engineering-services establishments (NAICS 541330), 2024 annual average [S-013]
@@ -63,7 +63,7 @@ How big are the telecom beachhead and the wider ROW market?
 
 ### Telecom paying universe
 
-- [estimated] Operators (2,000-3,000) plus contractors and engineering firms (6,500-10,500) give a telecom paying universe of about 8,500-13,500 organizations. ROW managers are excluded because they carry zero ARR.
+- [estimated] Operators (2,000-3,000) plus contractors and engineering firms (6,500-10,700) give a telecom paying universe of about 8,500-13,700 organizations. ROW managers are excluded because they carry zero ARR.
 
 ### Annual spend pool the dashboard could address
 
@@ -101,7 +101,22 @@ How big are the telecom beachhead and the wider ROW market?
 | Water systems large enough to pay (~10% of community systems) | 4,400-5,000 | estimated |
 | Water/sewer line construction establishments (NAICS 237110) | 12,958 | sourced [S-024] |
 | Oil and gas pipeline construction establishments (NAICS 237120) | 4,414 | sourced [S-025] |
-| Expansion paying universe (operators plus relevant contractors) | 16,000-24,000 | estimated |
+
+- [estimated] Expansion paying universe build-up. Each row shows the input and the ratio; the low and high columns sum to the total:
+
+| Component | Input | Ratio applied | Low | High | Label |
+|---|---|---|---|---|---|
+| Electric distribution utilities | 2,938 (EIA 2017) | all counted | 2,938 | 2,938 | sourced input [S-017], no ratio |
+| Gas distribution operating companies | 3,317 establishments; AGA 200+ members | firms judged at 1,000-1,500 | 1,000 | 1,500 | estimated |
+| Water systems large enough to pay | 44,000+ community systems (high end assumes ~50,000) | ~10% | 4,400 | 5,000 | assumption |
+| Electric line contractors (non-telecom part of NAICS 237130) | 13,191 establishments | 40-60% non-telecom, x0.85 to firms | 4,500 | 6,700 | assumption |
+| Water/sewer line contractors (NAICS 237110) | 12,958 establishments | x0.85 to firms, 25-50% large enough to join | 2,750 | 5,500 | assumption |
+| Pipeline contractors (NAICS 237120) | 4,414 establishments | x0.85 to firms, 25-50% in distribution/ROW work | 950 | 1,900 | assumption |
+| Utility (non-telecom) ROW engineering firms | 99,768 engineering establishments | 2-4% | 2,000 | 4,000 | assumption |
+| Expansion paying universe | | | 18,538 | 27,538 | estimated |
+
+- [estimated] Rounded, the expansion adds about 18,500-27,500 paying organizations, roughly twice the telecom universe. Water and contractor rows are the least certain; no source was found for any of the ratios.
+- [estimated] All-ROW paying universe: telecom (8,500-13,700) plus expansion (18,500-27,500) would be 27,000-41,200 if summed, but NAICS 237130 is counted on both sides with opposite shares, and its firms total a fixed ~11,200 (13,191 x 0.85). Correcting for that gives about 29,200-39,000, used as 29,000-39,000.
 
 - [sourced] EIA counted 168 investor-owned, 1,958 publicly owned and 812 cooperative electric distribution utilities in 2017, almost 3,000 in total [S-017]
 - [sourced] NRECA represents more than 900 consumer-owned electric cooperatives [S-018]
@@ -112,7 +127,7 @@ How big are the telecom beachhead and the wider ROW market?
 - [sourced] EPA's service-area dataset includes over 44,000 community water systems [S-023]
 - [sourced] BLS QCEW counts 12,958 water and sewer line construction establishments, 2024 annual average [S-024]
 - [sourced] BLS QCEW counts 4,414 oil and gas pipeline construction establishments, 2024 annual average [S-025]
-- [estimated] Gas operators are put at 1,000-1,500 companies (establishments overstate firms; a PHMSA operator count could not be opened). Water is mostly small municipal systems, so only about 10% (4,400-5,000) are treated as able to pay. Electric adds the non-telecom half of NAICS 237130. Together the expansion adds roughly 16,000-24,000 paying organizations, about double the telecom universe.
+- [estimated] Gas operators are put at 1,000-1,500 companies because establishments overstate firms and a PHMSA operator count could not be opened. Water is mostly small municipal systems, so only about 10% are treated as able to pay. Many electric and water operators are themselves municipal, which may push them toward the free ROW-manager side and lower the paying count.
 - [estimated] Electric is the largest expansion prize: its IOU capex alone ($178.2B) is about twice telecom's, and many public power utilities are also municipal ROW managers.
 
 ## Assumptions
@@ -123,3 +138,4 @@ How big are the telecom beachhead and the wider ROW market?
 - Fiber costs $1,000-$1,500 per home passed; BEAD deployment spend lands over 3-5 years.
 - ROW-specific costs are 5-10% of telecom capex.
 - About 10% of community water systems are large enough to pay; gas has 1,000-1,500 operating companies.
+- 25-50% of water/sewer and pipeline construction firms are large enough, or ROW-focused enough, to join; 2-4% of engineering firms do non-telecom utility ROW work.
