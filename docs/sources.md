@@ -321,3 +321,241 @@ Georgia Department of Transportation
 https://www.dot.ga.gov/GDOT/pages/utilitypermitting.aspx
 Accessed: 2026-11-04
 Supports: GPAS is Georgia DOT's online system to submit, manage and review Utility Facility Encroachment Permits; GUPS locates permitted work; contractors request lane closures separately.
+
+## S-047
+Join WIA
+Wireless Infrastructure Association (WIA)
+https://wia.org/membership
+Accessed: 2026-11-04
+Supports: WIA membership serves carriers, infrastructure providers and professional services firms; benefits listed are advocacy and market intelligence, networking and business development, brand building; no dues are published (form-based contact); site navigation lists Connect (X) and SWAP events.
+
+## S-048
+NATE Announces New Public Safety Agency Membership Category
+TV Technology
+https://www.tvtechnology.com/news/nate-announces-new-public-safety-agency-membership-category
+Accessed: 2026-11-04
+Supports: NATE is a trade association of firms that build, service and maintain communications towers; in October 2014 it created a public safety agency membership category at $500 a year.
+
+## S-049
+Membership Information
+International Right of Way Association (IRWA)
+https://www.irwaonline.org/members/membership-information/
+Accessed: 2026-11-04
+Supports: IRWA annual dues of $245 (USD) plus chapter dues; over 7,500 members; describes itself as covering all right-of-way disciplines; Partner Program for agencies and companies buying employee memberships.
+
+## S-050
+Individual Membership
+American Public Works Association (APWA)
+https://www.apwa.org/about-apwa/membership/individual-membership/
+Accessed: 2026-11-04
+Supports: APWA professional individual dues of $252 (effective through December 2026) plus chapter dues; open to government, manufacturer, supplier, contractor and consulting staff in public works; networking with more than 30,000 public works professionals; no data or benchmark product listed.
+
+## S-051
+Join Us
+USTelecom - The Broadband Association
+https://ustelecom.org/ustelecom-community/join-ustelecom/
+Accessed: 2026-11-04
+Supports: USTelecom members are US and international carriers and suppliers; dues are not published (a dues calculator is linked).
+
+## S-052
+CTIA Store: Wireless Industry Indices Report
+CTIA
+https://store.ctia.org/
+Accessed: 2026-11-04
+Supports: CTIA sells annual editions of its Wireless Industry Indices Report at $1,075 (non-member) and a two-year subscription at $1,825 (non-member); member prices are shown inconsistently.
+
+## S-053
+2026 Annual Survey Highlights
+CTIA
+https://api.ctia.org/wp-content/uploads/2026/09/2026-Annual-Survey-Highlights.pdf
+Accessed: 2026-11-04
+Supports: US wireless providers invested nearly $30B in 2025; cumulative investment exceeds $763B, with $250B since 2018; data demand expected to grow 4x by 2032 (a demand projection; no capex or build forecast).
+
+## S-054
+Fiber Broadband Association Reports Rapid Fiber Expansion Amid Rising Labor, Materials, Permitting Costs (Jan 20, 2026)
+Fiber Broadband Association
+https://fiberbroadband.org/2026/01/20/fiber-broadband-association-reports-rapid-fiber-expansion-amid-rising-labor-materials-permitting-costs/
+Accessed: 2026-11-04
+Supports: FBA/Cartesian annual cost study from a survey and interviews of operators and contractors; median $18.00/ft underground and $8.00/ft aerial; 92% reported cost increases in 2025 and 88% expect increases in 2026, with permitting and make-ready cited.
+
+## S-055
+Wireline Permitting Study: Economic Impact on Fiber
+Fiber Broadband Association
+https://fiberbroadband.org/resources/wireline-permitting-study-economic-impact-on-fiber-fba/
+Accessed: 2026-11-04
+Supports: FBA-commissioned Cartesian study (page undated; upload path suggests September 2026) of more than 100 permitting examples from 30 states and territories and 71 local jurisdictions; per-foot ROW charges and approval delays made all modeled projects unviable; a 12-month delay cut one project's IRR from about 11% to about 6%; recommends a $200 per-permit safe harbor and a 120-day shot clock; appears publicly downloadable.
+
+## S-056
+Survey Reports
+NTCA - The Rural Broadband Association
+https://www.ntca.org/about-us/survey-reports
+Accessed: 2026-11-04
+Supports: NTCA publishes annual Broadband Survey Reports (2020-2025 editions listed); report contents were not reviewed.
+
+## S-057
+Participation - Damage Prevention Institute
+Common Ground Alliance (CGA)
+https://dpi.commongroundalliance.com/Participate/
+Accessed: 2026-11-04
+Supports: CGA dues of $100,000 (Platinum, 50 individuals), $50,000 (Gold), $25,000 (Silver), $12,500 (Bronze), $3,500 (Association), $3,000 (Corporate), $1,200 (Government/Municipality, 4 individuals) and $1,200 (Small Business); the page does not state the dues year.
+
+## S-058
+Common Ground Alliance Board - Director, Public Works
+American Public Works Association (APWA)
+https://www.apwa.org/group/common-ground-alliance-board-director-public-works/
+Accessed: 2026-11-04
+Supports: CGA board stakeholder directors each represent one of seventeen CGA stakeholder categories; APWA recommends the public works director candidate.
+
+## S-059
+Underground Utility Damage Worsened in 2025, and Telecom Networks Got Hit the Most (Aug 6, 2026)
+Cabling Installation & Maintenance (Endeavor B2B)
+https://www.cablinginstall.com/design-install/news/55396303/underground-utility-damage-worsened-in-2025-and-telecom-networks-got-hit-the-most
+Accessed: 2026-11-04
+Supports: CGA's 2025 DIRT data preview: 221,717 unique damage reports; telecom and CATV were 51% of incidents; CGA Index rose to 102; CGA runs the DIRT database and a Damage Prevention Dashboard combining 811-center and DIRT data for 2023-2025; the publisher is part of Endeavor B2B's Digital Infrastructure Group.
+
+## S-060
+Join the American Public Power Association
+American Public Power Association (APPA)
+https://www.publicpower.org/join
+Accessed: 2026-11-04
+Supports: APPA utility dues are formula-based on revenue and kWh sales (EIA-861); published associate dues include corporate $3,750, elite corporate $11,750, cooperatives $1,625-$5,900 by customers, state or local government agencies $1,075; members can benchmark through APPA surveys.
+
+## S-061
+U.S. Energy Utilities Membership
+American Gas Association (AGA)
+https://aga.org/about/membership/apply-for-u-s-energy-utilities-membership
+Accessed: 2026-11-04
+Supports: AGA utility dues are tiered on a three-year average of gas operating income; no dollar amounts published (estimate form only); AGA gathers data and reports to support advocacy.
+
+## S-062
+Shovels home page
+Shovels
+https://www.shovels.ai/
+Accessed: 2026-11-04
+Supports: Shovels calls itself "The prediction engine for the built world"; claims 202M+ building permits, 4.13M+ contractors, 2,840+ jurisdictions and 7M+ new permits a month; delivered via web app, API and bulk feeds (Snowflake, Databricks, BigQuery); no forecasting methodology described.
+
+## S-063
+Infrastructure Intelligence for Telecommunications Companies
+Shovels
+https://www.shovels.ai/telecommunications
+Accessed: 2026-11-04
+Supports: Shovels telecom use cases: monitor competitor network permit filings, target markets with fast and predictable approval timelines, map approval patterns for right-of-way planning, and access city council intelligence (franchise agreements) before permits are filed.
+
+## S-064
+Dodge Construction Network home page
+Dodge Construction Network
+https://www.construction.com/
+Accessed: 2026-11-04
+Supports: Dodge sells project leads, quarterly and annual construction demand forecasts by building type and territory (to county level), historical starts benchmarks and API/data feeds; no pricing published; no telecom or utility forecast named on the page.
+
+## S-065
+Clearlake Capital Group To Invest In Dodge Construction Network (Jan 5, 2022)
+Dodge Construction Network
+https://www.construction.com/clearlake-capital-group-to-invest-in-dodge-construction-network/
+Accessed: 2026-11-04
+Supports: Clearlake Capital became an equal partner with Symphony Technology Group in Dodge, a subscription construction-data company; terms not disclosed.
+
+## S-066
+CostQuest Associates home page
+CostQuest Associates
+https://www.costquest.com/
+Accessed: 2026-11-04
+Supports: CostQuest maintains the FCC/NTIA Broadband Serviceable Location Fabric (through 2032) and offers broadband cost modeling, TrueVerra location and network data, GrantLight BEAD compliance software and a Fiber Forecast Model; customers include the FCC, NTIA, carriers and governments; no pricing published.
+
+## S-067
+Broadband in America Report: August 2026 Edition
+Benton Institute for Broadband & Society (report by CostQuest)
+https://www.benton.org/headlines/broadband-america-report-august-2026-edition
+Accessed: 2026-11-04
+Supports: CostQuest's Fiber Forecast Model scores each unserved location for likelihood of fiber deployment in the next six months using historical builds, density, competition and demographics; estimates 2.1-6.7 million newly fiber-covered locations; top growth states Florida, Texas, Ohio, Illinois and Georgia.
+
+## S-068
+TeleGeography home page
+TeleGeography
+https://www2.telegeography.com/
+Accessed: 2026-11-04
+Supports: TeleGeography sells research services and databases (transport networks, network pricing, WAN cost benchmark, data centers, submarine cable consulting); describes itself as independent; no prices published; no US local ROW coverage described.
+
+## S-069
+LightBox home page
+LightBox
+https://www.lightboxre.com/
+Accessed: 2026-11-04
+Supports: LightBox sells parcel, ownership, transaction, zoning and environmental data (LightBox Live, data, API) mainly for commercial real estate; no pricing published; no forecasting products described.
+
+## S-070
+Ziff Davis Announces Definitive Agreement to Sell Connectivity Division to Accenture (Form 8-K, Exhibit 99.1, Mar 3, 2026)
+Ziff Davis, Inc. / U.S. Securities and Exchange Commission (EDGAR)
+https://www.sec.gov/Archives/edgar/data/1084048/000119312526086689/d98323dex991.htm
+Accessed: 2026-11-04
+Supports: sale of the Connectivity division (Ookla, Speedtest, Ekahau, Downdetector, RootMetrics) to Accenture for $1.2B in cash; division 2025 revenue of $231M (about 16% of Ziff Davis revenue).
+
+## S-071
+GeoTel Communications home page
+GeoTel Communications
+https://www.geo-tel.com/
+Accessed: 2026-11-04
+Supports: GeoTel sells telecom GIS datasets and fiber route maps (TeleTracker SaaS, reports); no pricing published; no permit data or forecasts described.
+
+## S-072
+Right Way to Manage Right of Ways (Oct 29, 2020)
+Accela
+https://www.accela.com/blog/right-way-to-manage-right-of-ways/
+Accessed: 2026-11-04
+Supports: Accela acquired Envista and rebranded it Accela Right of Way Management (SaaS, annual subscription) with project coordination, ROW permit management, public view and municipal consent modules; customers include San Francisco and Baltimore coordinating with utilities; no benchmarks, forecasts or pricing given.
+
+## S-073
+Right of Way Permitting Software for Public Works
+OpenGov
+https://opengov.com/products/permitting-and-licensing/right-of-way-permitting/
+Accessed: 2026-11-04
+Supports: OpenGov ROW permitting for city and county public works (applicants include utility contractors and telecom companies): online portal, configurable review workflows, GIS/Esri integration and dashboards of permit activity and age within the agency; no pricing, cross-jurisdiction benchmarks or forecasts described.
+
+## S-074
+Why Choose Clariti's Permitting & AI Plan Review Software?
+Clariti
+https://claritisoftware.com/resources/why-choose-clariti
+Accessed: 2026-11-04
+Supports: Clariti sells permitting and AI plan-review software to local governments (customers include Los Angeles, Phoenix, Orange County, Honolulu); no ROW-specific features, pricing, benchmarks or forecasts on the page.
+
+## S-075
+Causeway one.network (US) home page
+Causeway one.network
+https://us.one.network
+Accessed: 2026-11-04
+Supports: road-works coordination platform aggregating work-zone and road-event feeds, with integrated permitting workflows between road agencies, contractors and the public; claims 200+ road agencies, 180+ utilities and contractors and 20,000 professional users; no pricing or forecasting described.
+
+## S-076
+811 Ticket Management System
+Irth Solutions
+https://irthsolutions.com/damage-prevention/811-ticket-management
+Accessed: 2026-11-04
+Supports: Irth claims connection to every one call center in North America and more than 100 million one call tickets processed a year; customers include telecom (Cox), gas, electric and pipeline operators; per-ticket AI risk scoring; no pricing and no published excavation-trend forecasts.
+
+## S-077
+Sitetracker home page
+Sitetracker
+https://www.sitetracker.com/
+Accessed: 2026-11-04
+Supports: Sitetracker sells asset-lifecycle and deployment project management for telecom, fiber, wireless, towers and utilities (planning, site acquisition, permitting, construction); customer logos include AT&T and T-Mobile; no pricing published; no external benchmark or market forecast product described.
+
+## S-078
+IQGeo home page
+IQGeo
+https://www.iqgeo.com/
+Accessed: 2026-11-04
+Supports: IQGeo sells network planning, design and construction-management software to telecom and electric/gas utilities; no pricing published; vendor efficiency claims only, no market forecasts.
+
+## S-079
+Fiber Broadband Association study estimates price tag for passing 90% of U.S. households by 2029 (Sept 11, 2019)
+Lightwave (Endeavor Business Media)
+https://lightwaveonline.com/fttx/ftth-b/article/14039694/@lightwaveonline
+Accessed: 2026-11-04
+Supports: an FBA/Cartesian study estimated about $70B more spend to pass 90% of US households by 2029 at an average $1,250 per home passed ($52B for 80%), showing FBA has published forward build-cost projections before.
+
+## S-080
+International Right of Way Association home page
+International Right of Way Association (IRWA)
+https://www.irwaonline.org/
+Accessed: 2026-11-04
+Supports: IRWA offers professional credentialing programs (including electric and utilities, oil and gas, transportation), courses, conferences and chapter events, Right of Way Magazine, reports and a member directory; no permit data or forecasting product listed.

@@ -35,3 +35,13 @@
 
 ## From document 01 (price update after documents 03-04)
 - A blended average of $5,000-$10,000 per paying member is realistic from published dues comparables; it is not validated willingness to pay.
+
+## From document 05 (competitive landscape)
+- Capabilities not described on a competitor's public pages were treated as not offered; demos and sample data could show otherwise.
+- Unpublished enterprise prices (Shovels enterprise, CostQuest, Dodge, Irth, Accela, OpenGov and others) were not estimated and may differ widely from the dues and self-serve prices used.
+- ROW managers will treat an operator- and contractor-funded association as neutral only if governance gives them real weight, as CGA's stakeholder board does.
+- Cross-jurisdiction permit-time and fee benchmarks are a benefit ROW managers do not get from their own permitting software and would contribute data to receive.
+- FBA, NATOA or a data vendor (Shovels, CostQuest) could add the missing pieces within one to two years.
+- Shovels is the strongest threat to the dashboard and FBA the strongest threat to the membership.
+- Trade-show and media companies are possible acquirers; no supporting transaction was found.
+- The Ookla sale multiple (about 5.2x revenue) is a relevant comparable for a data business exit, not evidence of demand for this business.
