@@ -52,7 +52,7 @@ How do existing associations, data vendors, and permit platforms compare, and wh
 | S&P Global (Kagan) | Media and telecom investors | Not reviewed (site could not be opened) | Subscriber and market research (not verified here) | Not assessed |
 
 - [sourced] Shovels already sells telecom permit intelligence, including approval-timeline comparisons and ROW approval patterns, through self-serve plans [S-063]
-- [sourced] Shovels' self-serve plans cost $599 and $999 a month, about $7,200-$12,000 a year, inside the $5,000-$10,000 blended price band of document 01 [S-032]
+- [sourced] Shovels' self-serve plans cost $599 and $999 a month, about $7,200-$12,000 a year. The Basic plan (about $7,200) is inside the $5,000-$10,000 blended price band of document 01 and the Pro plan (about $12,000) is above it, so the range overlaps and exceeds the band [S-032]
 - [sourced] Shovels calls itself "The prediction engine for the built world" but the pages reviewed describe no forecasting method or accuracy [S-062]
 - [sourced] CostQuest already produces a predictive fiber-build model (six-month likelihood by location, 2.1-6.7 million new fiber locations) and publishes it via Benton [S-067]
 - [sourced] Dodge already sells county-level construction demand forecasts, but its page names no telecom or utility forecast [S-064]
