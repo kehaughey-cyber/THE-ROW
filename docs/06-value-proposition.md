@@ -20,18 +20,23 @@ Why join, why pay, why trust a neutral convener?
 | ROW managers | R1 municipal or county ROW manager, R2 state DOT permits office | Small staff, high permit volume, no advance view of planned builds, no peer benchmarks | Advance view of planned builds in their area, cross-jurisdiction benchmarks on fees and timelines, model ordinances and peer meetings, free or near-free | Agency permit platforms show only agency-level data (doc 05); agencies already pay $925-$2,125 to NATOA [S-030] | No, free or nominal; they contribute data |
 
 - [estimated] Operators: the proposition is "know before you file." The pain is variance and opacity of permit timing and fees across jurisdictions (doc 03). USTelecom reports approvals from a few days to more than a year and variation between neighboring jurisdictions [S-038], and the Fiber Broadband Association describes inconsistent, paper-based permitting [S-039]. Operators would be buying a way to plan crews and grant deadlines around that variance. This is inferred from advocacy filings and needs operator interviews.
-- [sourced] Fiber Broadband Association network-operator dues are $1,200, $2,250 or $6,000 a year by subscriber count, so operators already pay for association membership [S-027]
+- [sourced] Fiber Broadband Association network-operator dues are $1,200, $2,250 or $6,000 a year by subscriber count [S-027]
+- [estimated] Operators therefore already have an association-dues budget line of this size, which is the price range a membership offer will be compared with.
 - [estimated] Small operators (O3) are unlikely to value an analytics seat (doc 03) and already pay NTCA, WISPA or state dues, so the realistic offer to them is a low-cost regional view and meetings, not the full dashboard. The paying core is O1 and O2.
 - [estimated] Contractors and engineering firms: the proposition is "see the work coming." Doc 03 infers that large contractors value predicted build and capex timing more than permit benchmarks, because Dycom ties its results to customers' capital budgets and approval timing [S-043]. Engineering firms (C3) would use the jurisdiction requirements and approval-time history to quote clients, but their jurisdiction knowledge is their product, so the license must allow client deliverables. Both points are inferences and not stated by a contractor.
-- [sourced] Dycom's three largest customers accounted for 25.4%, 14.0% and 10.8% of fiscal 2026 contract revenue, so a prime will ask whether its main carrier customers have joined before it does [S-043]
+- [sourced] Dycom's three largest customers accounted for 25.4%, 14.0% and 10.8% of fiscal 2026 contract revenue [S-043]
+- [estimated] Because of that concentration, a prime is likely to ask whether its main carrier customers have joined before it does (doc 04); this is an inference, not stated by a contractor.
 - [estimated] ROW managers: the proposition is "see what is coming and compare yourself with peers, for free." Doc 03 documents their pain as permit volume against small staff, shot clocks and conflicts with capital projects [S-041] [S-042]. Doc 05 found that agency permitting platforms such as Accela and OpenGov offer agency-level views and no cross-jurisdiction comparison. A benchmark across jurisdictions is therefore a benefit their own software does not give them, and it is the reason they would contribute data. Whether it is valuable enough to justify staff time and records-law exposure is untested.
-- [sourced] Cities and counties already pay modest association dues; Hidalgo County, TX was invoiced $1,630 for three NATOA staff seats [S-031]
+- [sourced] NATOA charges local-government agencies $925-$2,125 a year by population [S-030]
+- [sourced] Hidalgo County, TX was invoiced $1,630 for three NATOA staff seats in October 2023 [S-031]
+- [estimated] Together these suggest local governments do pay modest association dues, so a nominal fee is not unprecedented.
 - [estimated] Cross-side benefit: each side's data makes the product better for the others. Operators and contractors buy because ROW managers contribute permit records; ROW managers contribute because they get benchmarks and advance notice that their own software lacks. This loop is the reason for a three-sided body, and it is a hypothesis that no buyer has confirmed.
 
 ### Neutral-convener positioning
 - [estimated] Positioning statement (draft for testing): "THE ROW is the independent association where the people who build in public rights-of-way, the people who build for them and the people who manage the rights-of-way share one set of permit, fee and build facts, and none of the three sides controls it." Persuasion, not evidence; wording is to be tested in interviews.
 - [sourced] The closest structural precedent is the Common Ground Alliance, whose board has directors for 17 stakeholder categories, including public works [S-058]
-- [sourced] NATOA already seats local-government ROW staff and for-profit industry associates in one association, so mixed membership is established practice [S-030]
+- [sourced] NATOA's eligibility includes staff managing poles, conduits or rights-of-way, and it charges for-profit associates $1,970 a year [S-030]
+- [estimated] NATOA therefore already combines local-government ROW staff and industry associates in one association, so mixed membership has precedent.
 - [estimated] The objection each side will raise is the same one in doc 03: R1 and R2 fear industry lobbying in disguise, while O1 and O2 fear that contributed data helps rivals and that a body including cities will lobby against fees and shot clocks. Fee and shot-clock rules are contested in public proceedings [S-040], which is why the governance has to be written down before launch.
 - [estimated] Doc 05 judged that the neutral benchmark is the defensible part of the gap because FBA's permitting study argues for fee caps and shot clocks against jurisdictions, so ROW managers are unlikely to treat its data as neutral [S-055]
 - [assumption] Governance and trust mechanisms the association would need; all are proposals, none is validated, and none is sourced except where a precedent is cited:
@@ -51,10 +56,15 @@ Why join, why pay, why trust a neutral convener?
 - [assumption] Who sits on the board in practice, how seats are elected and how disputes over data are settled are not designed here. They should be drafted after interviews show which seat allocations each side would accept.
 
 ### Why a member would pay for predictions, and the limits
-- [sourced] Prediction is not unique: CostQuest already produces a modeled fiber build forecast, giving six-month likelihood of fiber builds by location [S-067]
-- [sourced] Shovels already markets itself as a prediction engine and sells telecom permit intelligence at self-serve prices of $599-$999 a month, while its pages describe no forecasting method or accuracy [S-062]
-- [sourced] A three-sided body with government members and a contributed-data dashboard already exists in damage prevention (CGA) [S-059]
-- [sourced] Permit benchmarking inside an association already exists: FBA commissioned a study of 100+ permitting examples across 71 local jurisdictions [S-055]
+- [sourced] CostQuest's Fiber Forecast Model scores each unserved location for likelihood of fiber deployment in the next six months [S-067]
+- [estimated] Prediction of fiber builds is therefore not unique to this idea (doc 05).
+- [sourced] Shovels calls itself "The prediction engine for the built world" while its pages describe no forecasting methodology [S-062]
+- [sourced] Shovels sells permit-data plans at $599 and $999 a month [S-032]
+- [sourced] CGA runs the DIRT damage database and a Damage Prevention Dashboard combining 811-center and DIRT data [S-059]
+- [sourced] CGA's board has stakeholder directors for seventeen stakeholder categories [S-058]
+- [estimated] CGA is therefore an existing multi-stakeholder body with a data product in damage prevention, so a three-sided structure is not unique.
+- [sourced] FBA commissioned a Cartesian study of more than 100 permitting examples across 71 local jurisdictions [S-055]
+- [estimated] Permit benchmarking by an operator association therefore already exists, though as a one-off study rather than a continuously updated benchmark.
 - [estimated] Reasons a member could still pay, in descending order of confidence, each a judgment and not a finding:
   1. A permit-time and fee benchmark that agencies helped build and that all sides accept as neutral. This is the part doc 05 judged defensible, because Shovels has no government-side membership and FBA argues for operators.
   2. A single membership that bundles the benchmark with meetings with ROW managers, which no vendor sells and which NATOA and FBA sell separately to their own sides (doc 05).
